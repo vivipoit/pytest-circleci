@@ -1,0 +1,1 @@
+This repo is a simple example of a pipeline that runs pytest.
