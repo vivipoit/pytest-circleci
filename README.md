@@ -1,1 +1,1 @@
-This repo is a simple example of a pipeline that runs pytest.
+This repo is a simple example of a Circle CI pipeline that runs pytest.
