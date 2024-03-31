@@ -9,8 +9,6 @@ crank==0.8.1
 decorator==5.1.1
 docutils==0.18.1
 flake8==7.0.0
-Flask==2.1.2
--e git+ssh://git@github.com/vivipoit/flaskr.git@02192b25709b1f3823a4b1135546cb10e1fbb11c#egg=flaskr
 FormEncode==2.0.1
 gearbox==0.2.1
 greenlet==1.1.2
